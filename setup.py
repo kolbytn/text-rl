@@ -6,7 +6,7 @@ setup(
     packages=['textrl',],
     long_description=open('README.md').read(),
     install_requires=[
-        "torch == 1.1.0",
+        "torch == 2.2.0",
         "textworld == 1.1.1"
     ],
 )
